@@ -23,7 +23,8 @@ const questions = [`Why can’t you just feel whelmed instead of overwhelmed and
                    `Is your burp's are just your puke's farts?`,
     `Clapping is just hitting yourself repeatedly because you like something?`, `When you clean a vacuum cleaaner Aren't you the vacuum cleaner?`, `Lightbulbs were such a good idea they became the symbol of a good idea`, `When you say forward's or back your lips move in that directon`, `Why is there a "D" in a Fridge but not in a Refrigerator?`, `You technically have two miutes to live but everytime you breathe it restart the timer.`, `Taxes are just a yearly subscripton to the country you live in..`,
                    `Bro.. Your eraser slowely die's because of your mistakes..`,
-                  `When you wait for the waiter, aren't you the waiter?`];
+                  `When you wait for the waiter, aren't you the waiter?`,
+                  `Nothing is on fire, fire is on things.`];
 
 sessionStorage.clear();
 
