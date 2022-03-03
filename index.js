@@ -25,7 +25,8 @@ const questions = [`Why can’t you just feel whelmed instead of overwhelmed and
                    `Bro.. Your eraser slowely die's because of your mistakes..`,
                   `When you wait for the waiter, aren't you the waiter?`,
                   `Nothing is on fire, fire is on things.`,
-                  `The last kid to leave the school bus knows where everybody lives.`];
+                  `The last kid to leave the school bus knows where everybody lives.`,
+                  "You and someone reading this at the same time."];
 
 sessionStorage.clear();
 
